@@ -24,15 +24,6 @@ function Navbar(){
     <ul className="menu menu-horizontal px-1">
       <li><a>Home</a></li>
       <li><a>Product</a></li>
-      {/* <li>
-        <details>
-          <summary>Parent</summary>
-          <ul className="p-2">
-            <li><a>Submenu 1</a></li>
-            <li><a>Submenu 2</a></li>
-          </ul>
-        </details>
-      </li> */}
       <li><a>Pricing</a></li>
       <li><a>Contact</a></li>
 
